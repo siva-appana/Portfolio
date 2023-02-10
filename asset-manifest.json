@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.de770f5e.css",
+    "main.js": "/Portfolio/static/js/main.cbb06377.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/freeflight.png": "/Portfolio/static/media/freeflight.3695b6ab7c0351da468b.png",
+    "static/media/robot.gif": "/Portfolio/static/media/robot.aa0e3447e4fe2adf084b.gif",
+    "static/media/Siva_Appana_Resume_CS.pdf": "/Portfolio/static/media/Siva_Appana_Resume_CS.4e1c668deba511a69d6b.pdf",
+    "static/media/Siva_Appana_Resume_ME.pdf": "/Portfolio/static/media/Siva_Appana_Resume_ME.0329ddcfdf7b1a29ee63.pdf",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/SAlogo.png": "/Portfolio/static/media/SAlogo.d2f7c620c9e31cef892d.png",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.de770f5e.css.map": "/Portfolio/static/css/main.de770f5e.css.map",
+    "main.cbb06377.js.map": "/Portfolio/static/js/main.cbb06377.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de770f5e.css",
+    "static/js/main.cbb06377.js"
+  ]
+}
