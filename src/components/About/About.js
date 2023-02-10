@@ -6,6 +6,7 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import Prodstack from "./Prodstack";
 
 function About() {
   return (
@@ -34,16 +35,21 @@ function About() {
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
         </Row>
+        
         <h1 className="project-heading">
-          Programming <strong className="purple">Tools </strong>
+          <strong className="purple">Engineering </strong> Tools
         </h1>
+        <Toolstack />
 
+        <h1 className="project-heading">
+          <strong className="purple">Programming </strong> Tools
+        </h1>
         <Techstack />
 
         <h1 className="project-heading">
-          <strong className="purple">Tools</strong> I use
+          <strong className="purple">Productivity </strong> Tools
         </h1>
-        <Toolstack />
+        <Prodstack />
       </Container>
     </Container>
   );

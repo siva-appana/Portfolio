@@ -3,11 +3,9 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiDassaultsystemes,
   SiAutodesk,
-  SiVisualstudiocode,
-  SiPostman,
-  SiHeroku,
-  SiVercel,
+  SiArduino,
 } from "react-icons/si";
+import { Icon } from '@iconify/react';
 
 function Toolstack() {
   return (
@@ -19,13 +17,13 @@ function Toolstack() {
         <SiAutodesk />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <SiArduino />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <Icon icon="material-symbols:precision-manufacturing" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
+        <Icon icon="mdi:printer-3d" />
       </Col>
     </Row>
   );
