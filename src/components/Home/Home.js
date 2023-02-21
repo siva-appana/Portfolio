@@ -13,16 +13,8 @@ function Home() {
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
-              <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hello!{" "}
-                <span className="wave" role="img" aria-labelledby="wave">
-                  👋🏻
-                </span>
-              </h1>
-
               <h1 className="heading-name">
-                I'M
-                <strong className="main-name"> SIVA APPANA</strong>
+                <strong className="main-name">SIVA APPANA</strong>'s Portfolio
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
